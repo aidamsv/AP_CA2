@@ -1,0 +1,18 @@
+{
+  "port":2002,
+  "deposits":[
+    {
+      "customer":"Aida",
+      "id":"1",
+      "initialBalance":"100,00",
+      "upperBound":"200,00"
+    },
+    {
+      "customer":"Aria",
+      "id":"2",
+      "initialBalance":"300,00",
+      "upperBound":"400,00"
+    }
+  ],
+  "outLog":"server.out"
+}
