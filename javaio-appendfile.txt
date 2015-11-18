@@ -1,0 +1,1 @@
+transaction Transaction{transactionId='1', type='deposit', amount=3000, depositId='5'} from terminal id = 1 and type = ATMThere is no deposit with id 5result failtransaction Transaction{transactionId='2', type='withdraw', amount=10000, depositId='2'} from terminal id = 1 and type = ATM result success
